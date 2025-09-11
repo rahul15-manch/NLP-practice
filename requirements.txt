@@ -3,3 +3,4 @@ spacy
 svgling
 pandas
 Scikit-learn
+numpy
