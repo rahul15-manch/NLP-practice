@@ -4,3 +4,4 @@ svgling
 pandas
 Scikit-learn
 numpy
+gensim
