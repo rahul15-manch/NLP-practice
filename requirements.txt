@@ -5,3 +5,5 @@ pandas
 Scikit-learn
 numpy
 gensim
+tqdm
+numpy 
