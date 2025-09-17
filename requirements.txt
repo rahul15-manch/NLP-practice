@@ -7,3 +7,5 @@ numpy
 gensim
 tqdm
 numpy 
+bs4
+lxml
